@@ -1,0 +1,16 @@
+{
+    "name": "developvi/dvicd-custom-server-provider",
+    "description": "Deploy cloud servers and apps from inside the WordPress Admin dashboard.",
+    "authors": [
+        {
+            "name": "developvi",
+            "email": "support@developvi.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DVICD\\CustomServerProvider\\": "src/"
+         }
+    }
+    
+}
